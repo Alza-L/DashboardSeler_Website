@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Using Template
+
+To find out more details about the template I use, visit the website [Argon Dahsboard 2](https://www.creative-tim.com/product/argon-dashboard).
