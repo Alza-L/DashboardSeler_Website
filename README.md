@@ -67,3 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Using Template
 
+To find out more details about the template I use, visit the website [Argon Dahsboard 2](https://www.creative-tim.com/product/argon-dashboard).
